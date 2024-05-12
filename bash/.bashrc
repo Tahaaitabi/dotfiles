@@ -9,12 +9,12 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 PS1='[\A \u@\h \w]\$ '
 
-# Alias for listing contents of a directory
+# Alias for general bash commands
 alias ll='ls -lah'
 alias la='ls -A'
 alias q='exit'
 alias ..='cd ..'
-#alias  =''
+alias vim='nvim'
 
 # Alias for specific folders
 alias gdev='cd ~/Dev/'
