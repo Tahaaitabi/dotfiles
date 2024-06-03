@@ -4,7 +4,7 @@
 "{{{
 " Color theme:
 let g:solarized_termcolors=256
-set background=dark
+set background=light
 colorscheme solarized
 set t_Co=256
 set encoding=UTF-8
